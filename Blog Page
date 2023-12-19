@@ -1,0 +1,90 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AosCeant's Blog Page</title>
+  <style>
+    body {
+      font-family: 'Arial', sans-serif;
+      margin: 0;
+       background-image: url('https://tua.gov.tr/images/event-cover-image.jpg'); /* Verilen URL'yi buraya ekleyin */
+      background-size: center;
+      background-position: auto;
+      padding: 0;
+      background-color: #001f3f;
+      color: #fff;
+    }
+
+    header {
+      background-color: #111;
+      color: #00bfff;
+      padding: 10px;
+      text-align: center;
+    }
+
+    section {
+      max-width: 800px;
+      margin: 20px auto;
+      background-color: #001f3f;
+      padding: 20px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+
+    article {
+      margin-bottom: 20px;
+      border-bottom: 1px solid #003366;
+      padding-bottom: 20px;
+    }
+
+    h2 {
+      color: #00bfff;
+    }
+
+    p {
+      color: #ccd9ff;
+    }
+
+    footer {
+      background-color: #111;
+      color: #00bfff;
+      text-align: center;
+      padding: 10px;
+      position: fixed;
+      bottom: 0;
+      width: 100%;
+    }
+    background-image;https://tua.gov.tr/images/event-cover-image.jpg
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>AosCeant's Blog Page</h1>
+  </header>
+
+  <section>
+    <article>
+      <h2>Who Am I ?</h2>
+      <p>I'm a first-year student at Necmettin Erbakan University majoring in Mathematics and Computer Sciences.</p>
+    </article>
+
+    <article>
+      <h2>What's This Page </h2>
+      <p>This page is designed for Mega Yazılım Akademi's 5-week homework. It has an infrastructure that can be developed in the future.</p>
+    </article>
+    That's all for now !!!
+  </section>
+
+  <footer>
+    <p>&copy; 2023 AosCeant Inc.</p>
+  </footer>
+
+  <script>
+    // Buraya JavaScript kodlarını ekleyebilirsiniz, örneğin: 
+    // console.log('Hello from JavaScript!');
+  </script>
+
+</body>
+</html>
